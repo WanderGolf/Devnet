@@ -4,3 +4,5 @@
 ## Install:
 
 npm install firebase angularfire2
+
+Authentification implemented by: https://blog.paulhalliday.io/2017/09/08/ionic-3-and-firebase-user-authentication/
