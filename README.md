@@ -10,3 +10,5 @@ Authentification implemented by: https://blog.paulhalliday.io/2017/09/08/ionic-3
 ## Setup a firebase-project:
 
 https://firebase.google.com/docs/web/setup
+
+Shows CRUD-operations.
