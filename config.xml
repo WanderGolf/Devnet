@@ -15,3 +15,4 @@
     <allow-intent href="geo:*"/>
 
     <preference name="webviewbounce" value="false"/>
+    <preference name="UIWebViewBounce" value="false"/>
