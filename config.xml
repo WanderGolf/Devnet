@@ -61,3 +61,4 @@
         <icon src="resources/ios/icon/icon-40@2x.png" width="80" height="80"/>
         <icon src="resources/ios/icon/icon-40@3x.png" width="120" height="120"/>
         <icon src="resources/ios/icon/icon-50.png" width="50" height="50"/>
+        <icon src="resources/ios/icon/icon-50@2x.png" width="100" height="100"/>
