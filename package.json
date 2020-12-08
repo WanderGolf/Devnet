@@ -17,3 +17,4 @@
     "@angular/compiler": "4.1.0",
     "@angular/compiler-cli": "4.1.0",
     "@angular/core": "4.1.0",
+    "@angular/forms": "4.1.0",
