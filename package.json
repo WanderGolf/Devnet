@@ -20,3 +20,5 @@
     "@angular/forms": "4.1.0",
     "@angular/http": "4.1.0",
     "@angular/platform-browser": "4.1.0",
+    "@angular/platform-browser-dynamic": "4.1.0",
+    "@ionic-native/core": "3.7.0",
