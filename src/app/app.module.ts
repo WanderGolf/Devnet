@@ -13,3 +13,4 @@ import { AngularFireDatabaseModule } from 'angularfire2/database';
 import { AngularFireModule } from 'angularfire2';
 import { FirebaseServiceProvider } from '../providers/firebase-service/firebase-service';
 import { AngularFireAuthModule, AngularFireAuthProvider } from 'angularfire2/auth';
+import { LoginPage } from '../pages/login/login';
