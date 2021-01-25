@@ -15,3 +15,6 @@ import { FirebaseServiceProvider } from '../providers/firebase-service/firebase-
 import { AngularFireAuthModule, AngularFireAuthProvider } from 'angularfire2/auth';
 import { LoginPage } from '../pages/login/login';
 import { LoginPageModule } from '../pages/login/login.module';
+
+const firebaseConfig = {
+  apiKey: "AIzaSyBRHQkt6NwAdNi_FvTadyi9j9XBXhp19Ms",
