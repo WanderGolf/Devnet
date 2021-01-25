@@ -18,3 +18,5 @@ import { LoginPageModule } from '../pages/login/login.module';
 
 const firebaseConfig = {
   apiKey: "AIzaSyBRHQkt6NwAdNi_FvTadyi9j9XBXhp19Ms",
+  authDomain: "test-9d049.firebaseapp.com",
+  databaseURL: "https://test-9d04.firebaseio.com",
