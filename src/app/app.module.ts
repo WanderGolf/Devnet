@@ -23,3 +23,4 @@ const firebaseConfig = {
   projectId: "test-9d049",
   storageBucket: "test-9d04.appspot.com",
   messagingSenderId: "746980784601"
+};
