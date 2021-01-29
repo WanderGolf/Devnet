@@ -27,3 +27,5 @@ const firebaseConfig = {
 
 @NgModule({
   declarations: [
+    MyApp,
+    HomePage
