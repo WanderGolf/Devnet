@@ -29,3 +29,6 @@ const firebaseConfig = {
   declarations: [
     MyApp,
     HomePage
+  ],
+  imports: [
+    BrowserModule,
