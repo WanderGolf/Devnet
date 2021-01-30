@@ -32,3 +32,6 @@ const firebaseConfig = {
   ],
   imports: [
     BrowserModule,
+    HttpModule,
+    LoginPageModule,
+    AngularFireDatabaseModule,
