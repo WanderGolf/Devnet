@@ -35,3 +35,7 @@ const firebaseConfig = {
     HttpModule,
     LoginPageModule,
     AngularFireDatabaseModule,
+    AngularFireModule.initializeApp(firebaseConfig),
+    AngularFireAuthModule,
+    IonicModule.forRoot(MyApp)
+  ],
