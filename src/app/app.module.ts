@@ -41,3 +41,5 @@ const firebaseConfig = {
   ],
   bootstrap: [IonicApp],
   entryComponents: [
+    MyApp,
+    HomePage,
