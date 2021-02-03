@@ -43,3 +43,7 @@ const firebaseConfig = {
   entryComponents: [
     MyApp,
     HomePage,
+    LoginPage
+  ],
+  providers: [
+    StatusBar,
