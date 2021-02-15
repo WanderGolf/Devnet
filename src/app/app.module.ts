@@ -47,3 +47,4 @@ const firebaseConfig = {
   ],
   providers: [
     StatusBar,
+    SplashScreen,
