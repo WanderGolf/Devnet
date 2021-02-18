@@ -50,3 +50,5 @@ const firebaseConfig = {
     SplashScreen,
     {provide: ErrorHandler, useClass: IonicErrorHandler},
     FirebaseServiceProvider,
+    AngularFireAuthProvider
+  ]
