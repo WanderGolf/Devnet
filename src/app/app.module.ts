@@ -52,3 +52,5 @@ const firebaseConfig = {
     FirebaseServiceProvider,
     AngularFireAuthProvider
   ]
+})
+export class AppModule {}
