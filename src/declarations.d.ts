@@ -5,3 +5,5 @@
 
   A wildcard module is declared below to allow third party libraries to be used in an app even if they don't
   provide their own type declarations.
+
+  To learn more about using third party libraries in an Ionic app, check out the docs here:
