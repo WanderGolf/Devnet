@@ -7,3 +7,4 @@
   provide their own type declarations.
 
   To learn more about using third party libraries in an Ionic app, check out the docs here:
+  http://ionicframework.com/docs/v2/resources/third-party-libs/
