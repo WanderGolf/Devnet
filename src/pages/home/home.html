@@ -20,3 +20,5 @@
   </ion-row>
   <ion-list>
     <ion-item-sliding *ngFor="let item of ToDoListItems | async">
+      <ion-item>
+        {{item.id}} / {{item.name}} / {{item.status}}
