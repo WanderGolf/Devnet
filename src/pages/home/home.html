@@ -22,3 +22,5 @@
     <ion-item-sliding *ngFor="let item of ToDoListItems | async">
       <ion-item>
         {{item.id}} / {{item.name}} / {{item.status}}
+      </ion-item>
+      <ion-item-options side="right">
