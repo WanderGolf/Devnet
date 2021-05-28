@@ -1,1 +1,1 @@
-import { Compo
+import { Compone
