@@ -1,1 +1,1 @@
-import { Compone
+import { Component
