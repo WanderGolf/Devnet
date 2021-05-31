@@ -1,1 +1,1 @@
-import { Component } from '@ang
+import { Component } from '@angul
