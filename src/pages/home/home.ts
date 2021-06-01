@@ -1,1 +1,1 @@
-import { Component } from '@angular/co
+import { Component } from '@angular/cor
