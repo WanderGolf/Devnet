@@ -1,2 +1,2 @@
 import { Component } from '@angular/core';
-import { IonicPage, NavCo
+import { IonicPage, NavContr
