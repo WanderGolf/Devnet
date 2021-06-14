@@ -1,2 +1,2 @@
 import { Component } from '@angular/core';
-import { IonicPage, NavController } from 'ioni
+import { IonicPage, NavController } from 'ionic-
