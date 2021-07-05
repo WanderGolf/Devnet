@@ -1,3 +1,3 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController } from 'ionic-angular';
-import { FirebaseServiceProvider } from '../../providers/firebase-se
+import { FirebaseServiceProvider } from '../../providers/firebase-ser
