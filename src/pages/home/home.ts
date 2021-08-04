@@ -6,4 +6,4 @@ import { AngularFireDatabase } from 'angularfire2/database';
 import { Observable } from 'rxjs/Observable';
 
 class Post {
- 
+  i
