@@ -8,3 +8,4 @@ import { Observable } from 'rxjs/Observable';
 class Post {
   id: string;
   name: string;
+ 
