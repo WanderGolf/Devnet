@@ -9,4 +9,4 @@ class Post {
   id: string;
   name: string;
   status: string;
-  constructor() {
+  constructor() {}
