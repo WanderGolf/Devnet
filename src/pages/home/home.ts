@@ -11,3 +11,4 @@ class Post {
   status: string;
   constructor() {}
 }
+@
