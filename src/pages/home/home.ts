@@ -10,3 +10,4 @@ class Post {
   name: string;
   status: string;
   constructor() {}
+}
