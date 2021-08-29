@@ -12,4 +12,4 @@ class Post {
   constructor() {}
 }
 @Component({
-  selector: 'pag
+  selector: 'page-h
