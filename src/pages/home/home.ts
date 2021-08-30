@@ -12,4 +12,4 @@ class Post {
   constructor() {}
 }
 @Component({
-  selector: 'page-h
+  selector: 'page-home
