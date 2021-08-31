@@ -13,3 +13,4 @@ class Post {
 }
 @Component({
   selector: 'page-home',
+ 
