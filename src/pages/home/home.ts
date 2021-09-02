@@ -13,4 +13,4 @@ class Post {
 }
 @Component({
   selector: 'page-home',
-  templateUr
+  templateUrl
