@@ -15,4 +15,4 @@ class Post {
   selector: 'page-home',
   templateUrl: 'home.html'
 })
-export clas
+export class H
