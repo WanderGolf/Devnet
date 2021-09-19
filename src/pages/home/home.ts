@@ -16,4 +16,4 @@ class Post {
   templateUrl: 'home.html'
 })
 export class HomePage {
-  ToDoListItems: Observable<any>; //FirebaseList
+  ToDoListItems: Observable<any>; //FirebaseListOb
