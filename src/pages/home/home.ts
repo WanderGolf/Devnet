@@ -17,4 +17,4 @@ class Post {
 })
 export class HomePage {
   ToDoListItems: Observable<any>; //FirebaseListObservable<any[]>;
-  post: Po
+  post: Post
