@@ -19,4 +19,5 @@ export class HomePage {
   ToDoListItems: Observable<any>; //FirebaseListObservable<any[]>;
   post: Post = new Post();
   newItem = '';
-  postid: an
+  postid: any;
+
