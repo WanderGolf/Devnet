@@ -21,4 +21,4 @@ export class HomePage {
   newItem = '';
   postid: any;
 
-  constructor(public navCtrl: NavC
+  constructor(public navCtrl: NavCo
