@@ -21,4 +21,4 @@ export class HomePage {
   newItem = '';
   postid: any;
 
-  constructor(public navCtrl: NavController, public firebaseService: FirebaseServiceProvider,pr
+  constructor(public navCtrl: NavController, public firebaseService: FirebaseServiceProvider,privat
