@@ -21,4 +21,4 @@ export class HomePage {
   newItem = '';
   postid: any;
 
-  constructor(public navCtrl: NavController, public firebaseService: FirebaseServiceProvider,private database: AngularFireDat
+  constructor(public navCtrl: NavController, public firebaseService: FirebaseServiceProvider,private database: AngularFireData
