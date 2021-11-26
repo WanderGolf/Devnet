@@ -23,3 +23,4 @@ export class HomePage {
 
   constructor(public navCtrl: NavController, public firebaseService: FirebaseServiceProvider,private database: AngularFireDatabase) {
     this.ToDoListItems = firebaseService.afd.list('/ToDoItems/').valueChanges(); // snapshotChanges();
+ 
