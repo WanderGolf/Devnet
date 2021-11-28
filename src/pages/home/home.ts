@@ -25,4 +25,4 @@ export class HomePage {
     this.ToDoListItems = firebaseService.afd.list('/ToDoItems/').valueChanges(); // snapshotChanges();
   }
 
-  addIte
+  addItem(
