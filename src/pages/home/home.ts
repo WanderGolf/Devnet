@@ -27,4 +27,4 @@ export class HomePage {
 
   addItem() {
 
-    this
+    this.po
