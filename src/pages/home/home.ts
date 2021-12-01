@@ -27,4 +27,4 @@ export class HomePage {
 
   addItem() {
 
-    this.pos
+    this.post.
