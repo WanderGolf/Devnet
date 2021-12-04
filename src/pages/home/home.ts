@@ -27,4 +27,4 @@ export class HomePage {
 
   addItem() {
 
-    this.post.name = this.new
+    this.post.name = this.newIt
