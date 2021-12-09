@@ -28,4 +28,4 @@ export class HomePage {
   addItem() {
 
     this.post.name = this.newItem;
-    this.po
+    this.post.
