@@ -28,4 +28,4 @@ export class HomePage {
   addItem() {
 
     this.post.name = this.newItem;
-    this.post.status = 'of
+    this.post.status = 'offe
