@@ -29,4 +29,4 @@ export class HomePage {
 
     this.post.name = this.newItem;
     this.post.status = 'offen';
-    this.postid = this.firebaseService.addItem(this.pos
+    this.postid = this.firebaseService.addItem(this.post)
