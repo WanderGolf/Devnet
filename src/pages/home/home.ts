@@ -31,3 +31,4 @@ export class HomePage {
     this.post.status = 'offen';
     this.postid = this.firebaseService.addItem(this.post);
 
+   
