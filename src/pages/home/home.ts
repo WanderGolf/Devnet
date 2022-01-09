@@ -31,4 +31,4 @@ export class HomePage {
     this.post.status = 'offen';
     this.postid = this.firebaseService.addItem(this.post);
 
-    var brandRef = this.firebaseService.afd.database.ref('/ToDoItems/'+this.postid).child (
+    var brandRef = this.firebaseService.afd.database.ref('/ToDoItems/'+this.postid).child ('/
