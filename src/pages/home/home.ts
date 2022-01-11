@@ -32,4 +32,4 @@ export class HomePage {
     this.postid = this.firebaseService.addItem(this.post);
 
     var brandRef = this.firebaseService.afd.database.ref('/ToDoItems/'+this.postid).child ('/id');
-    brandR
+    brandRe
