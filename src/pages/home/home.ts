@@ -34,3 +34,4 @@ export class HomePage {
     var brandRef = this.firebaseService.afd.database.ref('/ToDoItems/'+this.postid).child ('/id');
     brandRef.set (
       this.postid
+  
