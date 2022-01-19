@@ -38,4 +38,4 @@ export class HomePage {
 
   }
 
-  rem
+  remov
