@@ -38,4 +38,4 @@ export class HomePage {
 
   }
 
-  removeIte
+  removeItem(i
