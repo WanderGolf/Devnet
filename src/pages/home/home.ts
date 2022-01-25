@@ -39,4 +39,4 @@ export class HomePage {
   }
 
   removeItem(id) {
-    this.fireba
+    this.firebas
