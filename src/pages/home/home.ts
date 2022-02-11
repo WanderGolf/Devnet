@@ -39,4 +39,4 @@ export class HomePage {
   }
 
   removeItem(id) {
-    this.firebaseService.removeItem(id
+    this.firebaseService.removeItem(id);
