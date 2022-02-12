@@ -42,3 +42,4 @@ export class HomePage {
     this.firebaseService.removeItem(id);
   }
 
+}
