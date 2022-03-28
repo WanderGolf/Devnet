@@ -26,3 +26,5 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
             if (f = 1, y && (t = y[op[0] & 2 ? "return" : op[0] ? "throw" : "next"]) && !(t = t.call(y, op[1])).done) return t;
             if (y = 0, t) op = [0, t.value];
             switch (op[0]) {
+                case 0: case 1: t = op; break;
+                case 4: _.label++; return { value: op[1], done: false };
