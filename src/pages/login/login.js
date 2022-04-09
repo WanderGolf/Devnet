@@ -31,3 +31,5 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
                 case 5: _.label++; y = op[1]; op = [0]; continue;
                 case 7: op = _.ops.pop(); _.trys.pop(); continue;
                 default:
+                    if (!(t = _.trys, t = t.length > 0 && t[t.length - 1]) && (op[0] === 6 || op[0] === 2)) { _ = 0; continue; }
+                    if (op[0] === 3 && (!t || (op[1] > t[0] && op[1] < t[3]))) { _.label = op[1]; break; }
