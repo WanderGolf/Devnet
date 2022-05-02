@@ -48,3 +48,4 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { AngularFireAuth } from 'angularfire2/auth';
 import { HomePage } from '../home/home';
 var LoginPage = /** @class */ (function () {
+    function LoginPage(afAuth, navCtrl, navParams) {
