@@ -49,3 +49,5 @@ import { AngularFireAuth } from 'angularfire2/auth';
 import { HomePage } from '../home/home';
 var LoginPage = /** @class */ (function () {
     function LoginPage(afAuth, navCtrl, navParams) {
+        this.afAuth = afAuth;
+        this.navCtrl = navCtrl;
