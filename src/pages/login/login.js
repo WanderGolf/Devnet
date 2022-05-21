@@ -55,3 +55,4 @@ var LoginPage = /** @class */ (function () {
         this.user = {};
     }
     LoginPage.prototype.login = function (user) {
+        return __awaiter(this, void 0, void 0, function () {
