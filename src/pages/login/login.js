@@ -51,3 +51,7 @@ var LoginPage = /** @class */ (function () {
     function LoginPage(afAuth, navCtrl, navParams) {
         this.afAuth = afAuth;
         this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.user = {};
+    }
+    LoginPage.prototype.login = function (user) {
