@@ -64,3 +64,4 @@ var LoginPage = /** @class */ (function () {
                         return [4 /*yield*/, this.afAuth.auth.signInWithEmailAndPassword(user.email, user.password)];
                     case 1:
                         result = _a.sent();
+                        if (result) {
