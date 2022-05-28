@@ -67,3 +67,5 @@ var LoginPage = /** @class */ (function () {
                         if (result) {
                             this.navCtrl.setRoot('HomePage');
                         }
+                        return [3 /*break*/, 3];
+                    case 2:
