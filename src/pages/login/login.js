@@ -72,3 +72,5 @@ var LoginPage = /** @class */ (function () {
                         e_1 = _a.sent();
                         console.error(e_1);
                         return [3 /*break*/, 3];
+                    case 3: return [2 /*return*/];
+                }
