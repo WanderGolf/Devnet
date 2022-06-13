@@ -74,3 +74,9 @@ var LoginPage = /** @class */ (function () {
                         return [3 /*break*/, 3];
                     case 3: return [2 /*return*/];
                 }
+            });
+        });
+    };
+    LoginPage.prototype.register = function (user) {
+        return __awaiter(this, void 0, void 0, function () {
+            var result, e_2;
