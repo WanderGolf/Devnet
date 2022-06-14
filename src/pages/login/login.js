@@ -80,3 +80,7 @@ var LoginPage = /** @class */ (function () {
     LoginPage.prototype.register = function (user) {
         return __awaiter(this, void 0, void 0, function () {
             var result, e_2;
+            return __generator(this, function (_a) {
+                switch (_a.label) {
+                    case 0:
+                        _a.trys.push([0, 2, , 3]);
