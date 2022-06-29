@@ -89,3 +89,4 @@ var LoginPage = /** @class */ (function () {
                         result = _a.sent();
                         if (result) {
                             this.navCtrl.push(HomePage);
+                        }
