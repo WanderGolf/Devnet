@@ -88,3 +88,4 @@ var LoginPage = /** @class */ (function () {
                     case 1:
                         result = _a.sent();
                         if (result) {
+                            this.navCtrl.push(HomePage);
