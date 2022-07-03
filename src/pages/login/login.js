@@ -90,3 +90,5 @@ var LoginPage = /** @class */ (function () {
                         if (result) {
                             this.navCtrl.push(HomePage);
                         }
+                        return [3 /*break*/, 3];
+                    case 2:
