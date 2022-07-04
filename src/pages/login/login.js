@@ -94,3 +94,6 @@ var LoginPage = /** @class */ (function () {
                     case 2:
                         e_2 = _a.sent();
                         console.error(e_2);
+                        return [3 /*break*/, 3];
+                    case 3: return [2 /*return*/];
+                }
