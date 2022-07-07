@@ -103,3 +103,4 @@ var LoginPage = /** @class */ (function () {
     LoginPage = __decorate([
         IonicPage(),
         Component({
+            selector: 'page-login',
