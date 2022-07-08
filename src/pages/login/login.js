@@ -104,3 +104,5 @@ var LoginPage = /** @class */ (function () {
         IonicPage(),
         Component({
             selector: 'page-login',
+            templateUrl: 'login.html',
+        }),
