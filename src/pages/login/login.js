@@ -107,3 +107,4 @@ var LoginPage = /** @class */ (function () {
             templateUrl: 'login.html',
         }),
         __metadata("design:paramtypes", [AngularFireAuth,
+            NavController, NavParams])
