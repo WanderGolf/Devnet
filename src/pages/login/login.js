@@ -108,3 +108,5 @@ var LoginPage = /** @class */ (function () {
         }),
         __metadata("design:paramtypes", [AngularFireAuth,
             NavController, NavParams])
+    ], LoginPage);
+    return LoginPage;
