@@ -106,3 +106,4 @@ var LoginPage = /** @class */ (function () {
             selector: 'page-login',
             templateUrl: 'login.html',
         }),
+        __metadata("design:paramtypes", [AngularFireAuth,
