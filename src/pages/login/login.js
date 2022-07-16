@@ -110,3 +110,4 @@ var LoginPage = /** @class */ (function () {
             NavController, NavParams])
     ], LoginPage);
     return LoginPage;
+}());
