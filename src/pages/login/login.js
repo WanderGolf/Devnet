@@ -111,3 +111,5 @@ var LoginPage = /** @class */ (function () {
     ], LoginPage);
     return LoginPage;
 }());
+export { LoginPage };
+//# sourceMappingURL=login.js.map
