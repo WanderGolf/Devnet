@@ -10,3 +10,8 @@ import { IonicPageModule } from 'ionic-angular';
 import { LoginPage } from './login';
 import { AngularFireAuthProvider } from 'angularfire2/auth';
 var LoginPageModule = /** @class */ (function () {
+    function LoginPageModule() {
+    }
+    LoginPageModule = __decorate([
+        NgModule({
+            declarations: [
