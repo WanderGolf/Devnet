@@ -20,3 +20,5 @@ var LoginPageModule = /** @class */ (function () {
             imports: [
                 IonicPageModule.forChild(LoginPage),
             ],
+            exports: [
+                LoginPage
