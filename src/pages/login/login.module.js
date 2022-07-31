@@ -15,3 +15,6 @@ var LoginPageModule = /** @class */ (function () {
     LoginPageModule = __decorate([
         NgModule({
             declarations: [
+                LoginPage,
+            ],
+            imports: [
