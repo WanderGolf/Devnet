@@ -22,3 +22,8 @@ var LoginPageModule = /** @class */ (function () {
             ],
             exports: [
                 LoginPage
+            ],
+            providers: [AngularFireAuthProvider]
+        })
+    ], LoginPageModule);
+    return LoginPageModule;
