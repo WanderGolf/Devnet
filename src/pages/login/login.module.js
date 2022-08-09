@@ -27,3 +27,6 @@ var LoginPageModule = /** @class */ (function () {
         })
     ], LoginPageModule);
     return LoginPageModule;
+}());
+export { LoginPageModule };
+//# sourceMappingURL=login.module.js.map
