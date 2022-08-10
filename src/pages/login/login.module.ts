@@ -5,3 +5,5 @@ import { LoginPage } from './login';
 import { AngularFireAuthProvider } from 'angularfire2/auth';
 
 @NgModule({
+  declarations: [
+    LoginPage,
