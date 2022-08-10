@@ -8,3 +8,6 @@ import { AngularFireAuthProvider } from 'angularfire2/auth';
   declarations: [
     LoginPage,
   ],
+  imports: [
+    IonicPageModule.forChild(LoginPage),
+  ],
