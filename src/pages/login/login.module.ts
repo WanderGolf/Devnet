@@ -7,3 +7,4 @@ import { AngularFireAuthProvider } from 'angularfire2/auth';
 @NgModule({
   declarations: [
     LoginPage,
+  ],
