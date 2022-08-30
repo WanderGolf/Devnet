@@ -12,3 +12,5 @@ import { AngularFireAuthProvider } from 'angularfire2/auth';
     IonicPageModule.forChild(LoginPage),
   ],
   exports: [
+    LoginPage
+  ],
