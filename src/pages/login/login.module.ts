@@ -14,3 +14,5 @@ import { AngularFireAuthProvider } from 'angularfire2/auth';
   exports: [
     LoginPage
   ],
+  providers: [AngularFireAuthProvider]
+})
