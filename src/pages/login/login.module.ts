@@ -16,3 +16,4 @@ import { AngularFireAuthProvider } from 'angularfire2/auth';
   ],
   providers: [AngularFireAuthProvider]
 })
+export class LoginPageModule {}
