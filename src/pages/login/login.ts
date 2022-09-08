@@ -6,3 +6,4 @@ import { AngularFireAuth } from 'angularfire2/auth';
 import { HomePage } from '../home/home';
 
 @IonicPage()
+@Component({
