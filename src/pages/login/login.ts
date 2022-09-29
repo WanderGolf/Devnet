@@ -13,3 +13,5 @@ import { HomePage } from '../home/home';
 export class LoginPage {
 
   user = {} as User;
+
+  constructor(private afAuth: AngularFireAuth,
