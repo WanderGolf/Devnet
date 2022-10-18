@@ -25,3 +25,5 @@ export class LoginPage {
         this.navCtrl.setRoot(HomePage);
       }
     }
+    catch (e) {
+      console.error(e);
