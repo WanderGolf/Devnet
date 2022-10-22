@@ -27,3 +27,5 @@ export class LoginPage {
     }
     catch (e) {
       console.error(e);
+    }
+  }
