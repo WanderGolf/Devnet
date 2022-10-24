@@ -29,3 +29,7 @@ export class LoginPage {
       console.error(e);
     }
   }
+
+  async register(user: User) {
+    try {
+      const result = await this.afAuth.auth.createUserWithEmailAndPassword(
