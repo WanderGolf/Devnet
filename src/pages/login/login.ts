@@ -35,3 +35,4 @@ export class LoginPage {
       const result = await this.afAuth.auth.createUserWithEmailAndPassword(
         user.email,
         user.password
+      );
