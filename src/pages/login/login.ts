@@ -33,3 +33,5 @@ export class LoginPage {
   async register(user: User) {
     try {
       const result = await this.afAuth.auth.createUserWithEmailAndPassword(
+        user.email,
+        user.password
