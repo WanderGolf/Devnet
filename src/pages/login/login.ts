@@ -43,3 +43,4 @@ export class LoginPage {
       console.error(e);
     }
   }
+}
