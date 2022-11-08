@@ -36,3 +36,7 @@ export class LoginPage {
         user.email,
         user.password
       );
+      if (result) {
+        this.navCtrl.setRoot(HomePage);
+      }
+    } catch (e) {
