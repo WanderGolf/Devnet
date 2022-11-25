@@ -12,3 +12,5 @@ import { AngularFireDatabase } from 'angularfire2/database';
 @Injectable()
 export class FirebaseServiceProvider {
   constructor(public afd: AngularFireDatabase) {
+
+  }
