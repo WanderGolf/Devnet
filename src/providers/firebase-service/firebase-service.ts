@@ -16,3 +16,5 @@ export class FirebaseServiceProvider {
   }
 
   getToDoItems() {
+    return this.afd.list('/ToDoItems/');
+  }
