@@ -18,3 +18,6 @@ export class FirebaseServiceProvider {
   getToDoItems() {
     return this.afd.list('/ToDoItems/');
   }
+
+  addItem(name) {
+    var postid: String;
