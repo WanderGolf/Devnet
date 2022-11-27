@@ -22,3 +22,5 @@ export class FirebaseServiceProvider {
   addItem(name) {
     var postid: String;
     var pstr: any;
+
+    postid = this.afd.list('/ToDoItems/').push(name).toString();
