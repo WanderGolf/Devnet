@@ -24,3 +24,4 @@ export class FirebaseServiceProvider {
     var pstr: any;
 
     postid = this.afd.list('/ToDoItems/').push(name).toString();
+    pstr = postid.split('/');
