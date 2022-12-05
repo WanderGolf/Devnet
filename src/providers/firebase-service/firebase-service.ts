@@ -28,3 +28,5 @@ export class FirebaseServiceProvider {
     postid = pstr[4];
     //this.afd.list('/ToDoItems/').push(postid);
     console.log('--> '+postid);
+    return postid;
+  }
