@@ -30,3 +30,5 @@ export class FirebaseServiceProvider {
     console.log('--> '+postid);
     return postid;
   }
+
+  removeItem(id) {
