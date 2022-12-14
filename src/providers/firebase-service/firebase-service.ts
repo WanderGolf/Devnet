@@ -34,3 +34,5 @@ export class FirebaseServiceProvider {
   removeItem(id) {
     this.afd.list('/ToDoItems/').remove(id);
   }
+
+}
