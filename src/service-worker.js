@@ -11,3 +11,5 @@ importScripts('./build/sw-toolbox.js');
 self.toolbox.options.cache = {
   name: 'ionic-cache'
 };
+
+// pre-cache our key assets
