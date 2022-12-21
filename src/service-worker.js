@@ -13,3 +13,6 @@ self.toolbox.options.cache = {
 };
 
 // pre-cache our key assets
+self.toolbox.precache(
+  [
+    './build/main.js',
