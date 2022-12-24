@@ -20,3 +20,4 @@ self.toolbox.precache(
     './build/polyfills.js',
     'index.html',
     'manifest.json'
+  ]
