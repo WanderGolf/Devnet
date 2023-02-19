@@ -11,3 +11,4 @@
     ],
     "module": "es2015",
     "moduleResolution": "node",
+    "sourceMap": true,
