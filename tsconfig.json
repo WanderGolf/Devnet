@@ -22,3 +22,5 @@
   ],
   "compileOnSave": false,
   "atom": {
+    "rewriteTsconfig": false
+  }
